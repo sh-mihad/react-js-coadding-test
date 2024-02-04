@@ -12,7 +12,7 @@ export default function ModalC({ showModalC, setShowModalC }) {
         <Modal.Header closeButton>
           <Modal.Title>Modal -C</Modal.Title>
         </Modal.Header>
-        <Modal.Body>Hello World</Modal.Body>
+        <Modal.Body>Contact Number : +880-165-552-5408</Modal.Body>
         <Modal.Footer>
           <Button
             style={{ backgroundColor: "#46139f", color: "white" }}
